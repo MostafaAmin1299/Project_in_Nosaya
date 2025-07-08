@@ -97,7 +97,7 @@ student-grades-analyzer/
 ## 👨‍💻 Author
 
 **Mostafa Amin**  
-System Analyst | Data Enthusiast  
+Data Analyst | Data Engineer  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-amin-391427221/)  
 
 ---

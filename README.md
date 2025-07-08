@@ -19,3 +19,8 @@ This project is part of a personal learning series called "**Project in Nosaya**
 
 ---
 
+## 👨‍💻 Author
+
+**Mostafa Amin**  
+Data Analyst | Data Engineer  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-amin-391427221/)  

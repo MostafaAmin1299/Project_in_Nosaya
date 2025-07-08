@@ -98,7 +98,7 @@ student-grades-analyzer/
 
 **Mostafa Amin**  
 System Analyst | Data Enthusiast  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-amin/)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-amin-391427221/)  
 
 ---
 
